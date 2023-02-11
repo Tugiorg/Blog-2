@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ravi+Prakash&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media (min-width: 375px) and (max-width: 719px) {
+    body {
+        width: 375px;
+        height: 3735px;
+    }
+
+    .header {
+        height: 60px;
+        width: 375px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        margin: 18px 0 42px 0;
+    }
+
+    .headlogo1 {
+        background-image: url('./Photo/Logo\ \(2\).png');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 112px;
+        height: 27.38px;
+        margin-left: 16px;
+        margin-right: 201px;
+    }
+
+    .headlogo2 {
+        background-image: url('./Photo/Burger\ menu.png');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 14px;
+        width: 30px;
+        margin-right: 16px;
+    }
+ 
+
+    .headimg {
+        height: 367px;
+        width: 375px;
+    }
+
+    .headh1 {    
+    width: 372px;
+    height: 48px;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 24px;
+    color: #1C2B32;
+    margin-bottom: 31px;
+    }
+
+
+}   
+
