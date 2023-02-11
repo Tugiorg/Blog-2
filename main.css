@@ -13,6 +13,11 @@
         height: 3735px;
     }
 
+    .blog {
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+
     .header {
         height: 60px;
         width: 375px;
@@ -30,7 +35,6 @@
         background-repeat: no-repeat;
         width: 112px;
         height: 27.38px;
-        margin-left: 16px;
         margin-right: 201px;
     }
 
@@ -60,6 +64,277 @@
     color: #1C2B32;
     margin-bottom: 31px;
     }
+    .headerimg {
+        background-image: url('./Photo/Rectangle\ 232.png');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 342px;
+        height: 180px;
+    }
+    .headflex {
+        display: flex;
+        margin-top: 8px;
+    }
+    .headbtn1 {
+        width: 98px;
+        height: 24px;
+        margin-right: 8px;
+        background: #FDFDFD;
+        border-radius: 5px;
+        border: 1px solid black;
+    }
+
+    .headbtn2 {
+        width: 98px;
+        height: 24px;
+        background: #B379EC;
+        border-radius: 5px;
+    }
+
+    .headbtntxt1 {
+        text-align: center;
+        width: 83px;
+        height: 24px;
+        font-family: 'Poppins';
+        font-weight: 500;
+        font-size: 10px;
+        line-height: 24px;
+        color: #1C2B32;
+        margin: 2px 8px;
+    }
+
+    .headbtntxt2 {
+        width: 69px;
+        margin: 2px 8px;
+        height: 24px;
+        font-family: 'Poppins';
+        font-weight: 500;
+        font-size: 10px;
+        line-height: 24px;
+        color: #FDFDFD;
+    }
+
+    .humandiv {
+        display: flex;
+        width: 375px;
+        height: 30.92px;
+        margin-top: 32px;
+        align-items: center;
+    }
+
+    .humanimg {
+        background-image: url('./Photo/Ellipse\ 42.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 30.92px;
+        height: 30.92px;
+        margin-right: 11px;
+    }
+
+    .timetxt {
+        width: 169px;
+        height: 11px;
+        font-family: 'Poppins';
+        font-weight: 500;
+        font-size: 8.83452px;
+        line-height: 11px;
+        color: #1C2B32;
+        margin-right: 96px;
+    }
+
+    .txtgg {
+        width: 37px;
+        height: 11px;
+        font-family: 'Ravi Prakash';
+        font-weight: 400;
+        font-size: 15.9021px;
+        line-height: 11px;
+        color: #1C2B32;
+    }
+
+    .fontdiv {
+        display: flex;
+        align-items: center;    
+        width: 375px;
+        height: 39px;
+        margin: 24px 0;
+    }
+
+    .vector {
+        background-image: url('./Photo/eye.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        width: 22px;
+        height: 16px;
+        margin-right: 9px;
+    }
+
+    .fonth2 {
+        width: 77px;
+        height: 29px;
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 29px;
+        color: #1C2B32;
+        margin-right: 32px;
+    }
+
+    .divaadiv {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 155px;
+        height: 39px;
+    }
+
+    .divaa1 {
+        width: 42px;
+        height: 30px;
+        background: #4EBA85;
+        border-radius: 8px;
+    }
+
+    .divaa2 {
+        width: 47px;
+        height: 36px;
+        border: 1px solid #6A6C6C;
+        border-radius: 8px;
+        margin: 0 8px;
+    }
+
+    .divaa3 {
+        width: 50px;
+        height: 39px;
+        border: 1px solid #6A6C6C;
+        border-radius: 8px;
+    }
+
+    .aatxt1 {
+        margin: 2px 10px;
+        width: 22px;
+        height: 26px;
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        color: #FDFDFD;
+    }
+
+    .aatxt2 {
+        margin: 2px 10px;
+        width: 27px;
+        height: 32px;
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 32px;
+        color: #6A6C6C;
+    }
+
+    .aatxt3 {
+        margin: 2px 10px;
+        width: 30px;
+        height: 35px;
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 35px;
+        color: #6A6C6C;
+    }
+
+    .textmid {
+        width: 343px;
+        margin-bottom: 24px;
+    }
+
+    .txtmidall {
+        font-family: 'Poppins';
+        font-weight: 600;
+        font-size: 22px;
+        line-height: 24px;
+        color: #1C2B32;
+    }
+
+    .whyh21 {
+        margin-bottom: 32px;
+    }
+
+    .txtmidp {
+        margin-bottom: 32px;
+    }
+
+    .whyh22 {
+        margin: 32px 0;
+    }
+
+    .marketingh2 {
+        margin: 32px 0;
+    }
+
+    .txth31 {
+        margin-top: 33px;
+    }
+
+    .socialmedia {
+        display: flex;
+        align-items: center;
+        width: 375px;
+        height: 56px;
+        margin-bottom: 40px;
+    }
+
+    .socialh2 {
+        width: 152px;
+        height: 24px;
+        font-family: 'Poppins';
+        font-weight: 600;
+        font-size: 22px;
+        line-height: 24px;
+        color: #1C2B32;
+        margin-right: 41px;
+    }
+
+    .socialicon1 {
+        background-image: url('./Photo/Vector\ \(7\).png');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 24px;
+        height: 19.53px;
+    }
+
+    .socialicon2 {
+        background-image: url('./Photo/Vector\ \(8\).png');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 24px;
+        height: 24px;
+        margin: 0 16px;
+    }
+
+
+    .socialicon3 {
+        background-image: url('./Photo/Vector\ \(9\).png');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 24px;
+        height: 24px; 
+    }
+
+    .aboutdiv {
+
+    }
+
+    
+
+
 
 
 }   
