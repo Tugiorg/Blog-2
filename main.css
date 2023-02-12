@@ -329,10 +329,55 @@
     }
 
     .aboutdiv {
+        width: 375px;
+        height: 390.29px;
+    }
+
+    .likeh2 {
+        width: 216px;
+        height: 24px;
+        font-family: 'Poppins';
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 24px;
+        color: #1C2B32;
+        margin: 16px 16px 32px ;        
+    }
+
+    .abouttxt1 {
+        width: 359px;
+        height: 302.29px;
+    }
+
+    .webdiv {
+        width: 23.81px;
+        height: 7.76px;
+        background-color: #FDFDFD;
+        margin: 9.77px 6.16px;
+    }
+
+    .webbtn1 {
+        background-color: #EC7D79;
+        height: 20px;
+        width: 43px;
+        border-radius: 5px;       
+    }
+
+    .abouth3 {
 
     }
 
-    
+    .timeabouttxt {
+
+    }
+
+    .txttime1 {
+
+    }
+
+    .txttime2 {
+
+    }
 
 
 
