@@ -14,8 +14,7 @@
     }
 
     .blog {
-        margin-left: 16px;
-        margin-right: 16px;
+        margin: 0 16px;
     }
 
     .header {
@@ -331,6 +330,7 @@
     .aboutdiv {
         width: 375px;
         height: 390.29px;
+        margin-bottom: 42px;
     }
 
     .likeh2 {
@@ -341,46 +341,306 @@
         font-size: 24px;
         line-height: 24px;
         color: #1C2B32;
-        margin: 16px 16px 32px ;        
+        margin: 16px 0 32px;        
     }
 
     .abouttxt1 {
-        width: 359px;
-        height: 302.29px;
+        width: 245px;
+        height: 84.76px;
     }
 
     .webdiv {
-        width: 23.81px;
-        height: 7.76px;
-        background-color: #FDFDFD;
-        margin: 9.77px 6.16px;
+        width: 29px;
+        height: 24px;
+        color: #FDFDFD;
+        font-family: 'Poppins';
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 24px;
+        margin-left: 10px;
     }
 
     .webbtn1 {
-        background-color: #EC7D79;
-        height: 20px;
-        width: 43px;
-        border-radius: 5px;       
+        width: 50px;
+        height: 24px;   
+        background: #EC7D79;
+        border-radius: 5px;    
     }
 
     .abouth3 {
-
+        width: 245px;
+        height: 24px;
+        font-family: 'Poppins';
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 24px;
+        color: #1C2B32;
+        margin: 8px 0;
     }
 
     .timeabouttxt {
-
+        width: 155px;
+        height: 24px;
+        display: flex;
     }
 
     .txttime1 {
-
+        width: 83px;
+        height: 24px;
+        font-family: 'Poppins';
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 24px;
+        color: #1C2B32;
+        margin-right: 10px;
     }
 
     .txttime2 {
+        width: 62px;
+        height: 24px;
+        font-family: 'Poppins';
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 24px;
+        color: #1C2B32;
+    }
 
+    .abouttxt2 {
+        width: 245px;
+        height: 84.76px;
+        margin: 24px 0;
     }
 
 
+    .abouttxt3 {
+        width: 245px;
+        height: 84.76px;
+    }
+
+    .foot {
+        width: 375px;
+        height: 776px;
+        margin-bottom: 81px;
+    }
+
+    .footdiv1 {
+        width: 351.58px;
+        height: 203.84px;   
+    }
+
+    .readyh2 {
+        width: 211px;
+        height: 53px;
+        font-family: 'Poppins';
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 24px;
+        color: #1C2B32;
+        margin: 88px 77px 63px 64px;
+    }
+
+    .footdiv2 {
+        width: 343px;
+        height: 495px;
+        background-color: #1C2B32;
+        box-shadow: 4px 4px 24px rgba(28, 43, 50, 0.3);
+        border-radius: 4px;
+    }
+
+    .headfoot {
+        width: 295px;
+        height: 114px;
+        margin: 40px 24px 24px;
+    }
+
+    .geth3 {
+        width: 358px;
+        height: 32px;        
+        font-family: 'Poppins';
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 32px;
+        color: #FDFDFD;
+    }
+
+    .headfoottxt {    
+        width: 279px;
+        height: 66px;
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 22px;
+        color: #FDFDFD;
+        padding-top: 16px;
+    }
+
+    .emaildiv {
+        width: 295px;
+        height: 277px;
+        margin: 24px 24px 40px;
+    }
+
+    .nametxt1 {
+        width: 37px;
+        height: 19px;
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 19px;
+        color: #9595AB;
+        margin: 22px 0 14px;
+    }
+
+    .emailbtnp {
+        width: 46px;
+        height: 25px;
+        font-family: 'Poppins';
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 25px;
+        color: #FFFFFF;       
+        padding: 15px 124px;
+    }
 
 
+    .emaildivbtn {
+        height: 56px;
+        width: 295px;
+         background-color: #4EBA85;
+        border-radius: 4px;
+        margin-top: 40px;
+    }
+
+    footer {
+        background-color: #1C2B32;
+        height: 610.9749145507812px;
+        width: 375px;
+    }
+
+    .logodiv {
+        padding-top: 80px;
+        margin-left: 128px;
+    }
+
+    .logodivfoot {
+        background-image: url('./Photo/Layer\ 1.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 119px;
+        height: 80.97px;
+    }
+
+    .footercontact {
+        width: 373px;
+        height: 330px;
+        margin-top: 48px;
+    }
+
+    .contactdiv {
+        width: 341px;
+        height: 140px;
+        margin: 0 17px 40px;
+    }
+
+    .contacth4 {
+        width: 90px;
+        height: 24px;
+        font-family: 'Poppins';
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 24px;
+        text-transform: capitalize;
+        color: #FFFFFF;
+    }
+
+    .gmaildiv1 {    
+        width: 337px;
+        height: 46px;
+    }
+
+    .gmailtxt1 {
+        width: 320px;
+        height: 22px;
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 155%;
+        color: #9595AB;
+    }
+
+    .gmailtxt2 {
+        width: 198px;
+        height: 22px;
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 155%;
+        color: #FFFFFF;
+    }
+
+    .gmaildiv2 {
+        width: 341px;
+        height: 46px;  
+    }
+
+    .gmailtxt11 {
+        width: 324px;
+        height: 22px;
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 155%;
+        color: #9595AB;
+    }
+
+    .gmailtxt12 {
+        width: 210px;
+        height: 22px;
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 155%;
+        color: #FFFFFF; 
+    }
+
+    .akap {
+        width: 331px;
+        height: 42px;        
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 150%;
+        text-transform: capitalize;
+        color: #FDFDFD;
+        margin-left: 17px;
+    }
+
+    .followdiv {
+        width: 268px;
+        height: 68px;        
+        margin: 40px 16px;
+    }
+
+    .followh4 {
+        width: 75px;
+        height: 24px;
+        font-family: 'Poppins';
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 150%;
+        text-transform: capitalize;
+        color: #FFFFFF;
+        margin-bottom: 16px;
+    }
+
+    .socialfooter {
+            background-image: url('./Photo/Icons\ social\ media\ \(1\).png');
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+            width: 268px;
+            height: 28px;    
+     }
 }   
 
