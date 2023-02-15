@@ -46,7 +46,38 @@
         width: 30px;
         margin-right: 16px;
     }
- 
+    
+    .midtxt2 {
+        display: none;
+    }   
+    
+    .midimgbirds {
+            display: none;
+        }
+    
+    .headlogo3 {
+        display: none;
+    }
+
+    .btnall {
+        display: none;
+    }
+
+    .txth3mid {
+        display: none;
+    }
+
+    .txtnidh3123 {
+        display: none;
+    }
+
+    .textpc {
+        display: none;
+    }
+
+    nav {
+        display: none;
+    }
 
     .headimg {
         height: 367px;
@@ -643,4 +674,185 @@
             height: 28px;    
      }
 }   
+
+    body {
+        margin: 0 auto;
+        height: 6473px;
+        width: 1440px;
+    }
+
+     .header {
+        width: 1439px;
+        height: 80px;
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+     }
+
+     .headlogo1 {
+        background-image: url('./Photo/Logo\ \(3\).png');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 194px;
+        height: 46.42px;
+        margin: 0 153px 0 172px;
+     }
+
+     .headlogo2 {
+        display: none;
+     }
+    
+     .headlogo3 {
+        background-image: url('./Photo/ant-design_heart-filled.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 24px;
+        height: 24px;
+        margin-right: 172px;
+    }
+
+    .headlogotxt {
+        width: 152px;
+        height: 24px;
+        font-family: 'Poppins';
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        text-decoration: underline;
+        color: #1C2B32;
+        margin-left: 30px;
+    }
+
+    .ukraine {
+        color: #4386D1;
+        text-decoration: underline;
+    }
+
+    nav  {
+        margin: 0 0 0 159px;
+    }
+
+    li {
+        display: inline-block;
+        list-style-type: none;
+        margin-right: 48px;
+    }
+
+    .headli1 {
+        width: 96px;
+        height: 24px;
+        font-family: 'Poppins';
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        color: #535B5E;
+    }
+
+    .headgreen {
+        width: 56px;
+        height: 24px;
+        font-family: 'Poppins';
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        color: #4EBA85; 
+    }
+
+    .headli2 {
+        width: 66px;
+        height: 24px;
+        font-family: 'Poppins';
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        color: #535B5E;
+    }
+
+    .headblack {
+        width: 37px;
+        height: 24px;
+        font-family: 'Poppins';
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 24px;
+        color: #434343;
+     }
+
+    .headactive {
+        background-image: url('./Photo/Active\ \(1\).png');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 14px;
+        height: 14px;
+        margin: 7px 0 0 10px;        
+    }
+
+    .headimg {
+        margin-top: 150px;
+        
+    }
+
+    .headh1 {
+        width: 893px;
+        height: 130px;
+        font-family: 'Poppins';
+        font-weight: 700;
+        font-size: 64px;
+        line-height: 125%;
+        color: #1C2B32;
+        margin: 0 259px;
+    }
+
+    .headerimg {
+        background-image: url('./Photo/Rectangle\ 230.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 917px;
+        height: 516px;
+        margin: 40px 259px;
+    }
+
+    .headflex {
+        display: flex;
+        margin: 0 259px;
+    }
+
+    .headbtn1 {
+        width: 35px;
+        height: 169.17px;
+        background-color: #FDFDFD;
+    }
+
+    .headbtntxt1 {
+        width: 146.97px;
+        height: 14.16px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
